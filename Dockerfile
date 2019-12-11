@@ -1,3 +1,3 @@
 FROM golang:1.13.5-alpine3.10
 
-RUN apk add --update upx git git-lfs
+RUN apk add --update upx git git-lfs bash
