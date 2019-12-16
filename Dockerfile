@@ -1,4 +1,4 @@
-FROM golang:1.13.5-alpine3.10
+FROM golang:1.12.14-alpine3.10
 
 USER root
 
